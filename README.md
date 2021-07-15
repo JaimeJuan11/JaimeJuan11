@@ -9,4 +9,4 @@
 - :computer: I already now C, C++, Java, PHP, CSS, JavaScript, and CMS.
 - 📚 I'm currently learning Laravel, React, Express and NodeJS.
 - 💬 I speak English and Portuguese.
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/jaime-juan-241b06129).
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/jaime-juan-de-castro-feliciano-damasceno-241b06129/).
