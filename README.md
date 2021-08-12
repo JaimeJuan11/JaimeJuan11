@@ -5,8 +5,9 @@
 -->
 
 - 🔭 I’m Software Engineering student at University of Brasília.
+- :octocat: Already graduated in Systems Analysis & Development.
 - 🌱 I’m currently learning Web Development, Database and Programming Language.
-- :computer: I already now C, C++, Java, PHP, CSS, JavaScript, and CMS.
+- :computer: I already now C, C++, Java, PHP, HTML, CSS, JavaScript, and CMS.
 - 📚 I'm currently learning Laravel, React, Express and NodeJS.
-- 💬 I speak English and Portuguese.
+- 💬 I speak English, Portuguese.
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/jaime-juan-de-castro-feliciano-damasceno-241b06129/).
